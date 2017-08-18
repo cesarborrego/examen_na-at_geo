@@ -15,7 +15,9 @@ import com.example.na_at.examen_app_geo.model.Bancos;
 import java.util.ArrayList;
 
 import static com.example.na_at.examen_app_geo.utils.Constants.REQUEST_IMAGE_CAPTURE;
-
+/**
+* autor Cesar Segura Granados
+*/
 public class Bancos_Activity extends AppCompatActivity {
 
     ArrayList<Bancos> bancosArrayList;
