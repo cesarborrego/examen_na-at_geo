@@ -8,7 +8,7 @@ import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 
 /**
- * Created by NA-AT on 25/04/2017.
+ * Created by Cesar Segura Granados on 25/04/2017.
  */
 
 public class VolleyApp extends Application {
