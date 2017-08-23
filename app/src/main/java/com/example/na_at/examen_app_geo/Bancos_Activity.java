@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 import static com.example.na_at.examen_app_geo.utils.Constants.REQUEST_IMAGE_CAPTURE;
 /**
-* autor Cesar Segura Granados 18/08/17
+* autor Cesar Segura Granados 23/08/17
 */
 public class Bancos_Activity extends AppCompatActivity {
 
